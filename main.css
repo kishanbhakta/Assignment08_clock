@@ -1,0 +1,17 @@
+body {
+   background-size: 100%;
+   background-image: url(http://hiphop4sport.com/wp-content/uploads/2015/04/9256629431_09b07b488b_z.jpg) ;
+   background-repeat: no-repeat;
+   font-size: 62.5%
+ }
+
+ #currentTime {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1em;
+    font-family: 'Slabo 27px', serif;
+    font-size: 20em;
+    color: rgb(155, 240, 0);
+    text-shadow: 1px 1px 1px #000, 3px 3px 5px blue;
+}
